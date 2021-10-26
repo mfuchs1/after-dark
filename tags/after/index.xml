@@ -13,8 +13,24 @@
     <generator>After Dark 9.2.3 (Hugo 0.88.1)</generator>
     <language>en-US</language>
     <copyright>Copyright &amp;copy; Matthias Fuchs. Licensed under CC-BY-ND-4.0.</copyright>
-    <lastBuildDate>Tue, 26 Oct 2021 08:10:29 UT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Oct 2021 08:25:11 UT</lastBuildDate>
     <atom:link href="https://mfuchs1.github.io/after-dark/tags/after/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mein Zweiter Eintrag</title>
+      <link>https://mfuchs1.github.io/after-dark/post/mein-zweiter-eintrag/</link>
+      <pubDate>Tue, 26 Oct 2021 08:21:26 UT</pubDate>
+      <guid>https://mfuchs1.github.io/after-dark/post/mein-zweiter-eintrag/</guid>
+      <description>Dies ist mein zweiter Eintrag.
+Gerade habe ich etwas entdeckt, dass mich mit &amp;lsquo;After Dark&amp;rsquo; weiterbringt: im &amp;lsquo;Header&amp;rsquo; des posts habe ich die Zeile &amp;lsquo;draft = true&amp;rsquo; gelöscht. Damit wurden alle posts nach public/ kopiert.
+Mit diesem post probiere ich was Neues - ich werde nochmals &amp;lsquo;hugo&amp;rsquo; laufen lassen. Ich bin gespannt, was passiert.
+Thank you for choosing After Dark.</description>
+      <category domain="https://mfuchs1.github.io/categories/hacking">Hacking</category>
+      <content:encoded><![CDATA[Dies ist mein zweiter Eintrag.
+Gerade habe ich etwas entdeckt, dass mich mit &amp;lsquo;After Dark&amp;rsquo; weiterbringt: im &amp;lsquo;Header&amp;rsquo; des posts habe ich die Zeile &amp;lsquo;draft = true&amp;rsquo; gelöscht. Damit wurden alle posts nach public/ kopiert.
+Mit diesem post probiere ich was Neues - ich werde nochmals &amp;lsquo;hugo&amp;rsquo; laufen lassen. Ich bin gespannt, was passiert.
+Thank you for choosing After Dark.
+]]></content:encoded>
+    </item>
     <item>
       <title>Mein Erster Eintrag</title>
       <link>https://mfuchs1.github.io/after-dark/post/mein-erster-eintrag/</link>
